@@ -1,10 +1,11 @@
 import 'dart:convert';
 import 'package:google_generative_ai/google_generative_ai.dart';
+import '../env/api_key.dart';
 
 class AIService {
   // ---------------------------------------------
-  // 👇 YOUR API KEY HERE
-  static const apiKey = 'AIzaSyBOfpwzvSlEViNIgED72axUVCPo_5LwAR0';
+  // 👇 API KEY READ FROM IGNORED FILE
+  static const apiKey = Env.geminiApiKey;
   // ---------------------------------------------
   
   final model = GenerativeModel(model: 'gemini-2.5-flash-lite', apiKey: apiKey);
