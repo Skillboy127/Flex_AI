@@ -1,24 +1,16 @@
-# Flex AI
-Flex AI is an intelligent strength and recovery coaching application built with Flutter. It utilizes AI to generate personalized workout and recovery plans based on user prompts and selected difficulty levels.
+# pulse_flow_ai
 
-## Features
-- **Smart AI Workouts**: Generate tailored training and recovery sessions. 
-- **User Authentication**: Securely sign in using Google Sign-In and Firebase Auth.
-- **Progression System**: Track your workouts, earn "Dumbbell" XP points, and level up!
-- **Consistency Tracking**: View your progress with a personalized weekly XP chart and customized 28-day consistency heatmap.
-- **Saved Plans**: Favorite your best workout plans to replay them anytime.
-- **Onboarding Experience**: Smooth onboarding flow to introduce new users to core mechanics.
-- **Spotify Integration**: Quickly launch workout or recovery music directly from your active session.
-
-## Tech Stack
-- **Framework**: Flutter
-- **Backend & Auth**: Firebase & Google Sign-In
-- **AI Integration**: Google Generative AI (Gemini)
-- **Local Storage**: SharedPreferences
+A new Flutter project.
 
 ## Getting Started
-Ensure you have Flutter installed, then run the following commands:
-```bash
-flutter pub get
-flutter run
-```
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
