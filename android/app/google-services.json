@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970007022780",
+    "project_id": "pulseflow-7d219",
+    "storage_bucket": "pulseflow-7d219.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970007022780:android:4268c6fccaf5dee574d4b9",
+        "android_client_info": {
+          "package_name": "com.example.pulse_flow_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_XzY6-pIvJHU6JcGDQCE_Dvh6to8HJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
