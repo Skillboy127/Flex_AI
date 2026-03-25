@@ -2,6 +2,8 @@
 
 An AI-powered strength and recovery coach designed to help you train smarter, not harder.
 
+DEMO VIDEO - https://youtube.com/shorts/hcLINHDXurA?feature=share
+
 ## Features
 
 - **Personalized Workouts & Recovery Plans**: Tell the AI what you want to achieve or recover from, and it instantly generates a custom plan tailored to your needs.
